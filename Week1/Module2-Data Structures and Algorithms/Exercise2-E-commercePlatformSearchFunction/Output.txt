@@ -1,0 +1,7 @@
+//run Main.java(VS code platform)
+
+Linear Search:
+Found: 301 - Book (Education)
+
+Binary Search:
+Found: 301 - Book (Education)

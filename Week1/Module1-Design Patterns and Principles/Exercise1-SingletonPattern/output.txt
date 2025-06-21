@@ -1,0 +1,6 @@
+//run LoggerTest.java(VS code platform)
+
+Logger Initialized
+Log: This is the first log.
+Log: This is the second log.
+Both logger instances are the same (Singleton confirmed).

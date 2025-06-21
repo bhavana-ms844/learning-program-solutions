@@ -1,0 +1,3 @@
+//run FinancialForecast.java(VS code platform)
+
+Predicted value after 5 years: $14693.28

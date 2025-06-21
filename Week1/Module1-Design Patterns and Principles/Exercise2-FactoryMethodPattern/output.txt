@@ -1,0 +1,5 @@
+//run Main.java (VS code platform)
+
+Opening a Word document.
+Opening a PDF document.
+Opening an Excel document.
