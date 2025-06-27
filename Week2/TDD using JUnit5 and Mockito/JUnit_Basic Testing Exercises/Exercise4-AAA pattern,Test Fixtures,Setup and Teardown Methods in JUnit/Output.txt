@@ -1,0 +1,11 @@
+Output
+
+>> Setup: MathUtils instance created
+<< Teardown: MathUtils instance cleared
+>> Setup: MathUtils instance created
+<< Teardown: MathUtils instance cleared
+>> Setup: MathUtils instance created
+<< Teardown: MathUtils instance cleared
+
+Tests run: 3, Failures: 0, Errors: 0
+BUILD SUCCESS

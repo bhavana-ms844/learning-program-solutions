@@ -1,0 +1,11 @@
+Sample Data
+
+| customer_id  | balance |
+| ------------ | ------- |
+| 101          | 15000   |
+| 103          | 12000   |
+
+Output
+
+Customer 101 promoted to VIP
+Customer 103 promoted to VIP

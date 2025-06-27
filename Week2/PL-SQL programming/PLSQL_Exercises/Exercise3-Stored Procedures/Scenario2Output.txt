@@ -1,0 +1,10 @@
+Sample Execution
+
+BEGIN
+  UpdateEmployeeBonus(10, 5);  -- 5% bonus to department 10
+END;
+
+Output
+
+Bonus updated for employee 201
+Bonus updated for employee 202

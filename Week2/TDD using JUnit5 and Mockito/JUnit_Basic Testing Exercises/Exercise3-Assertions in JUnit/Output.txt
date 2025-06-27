@@ -1,0 +1,8 @@
+Output
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running AssertionsTest
+Tests run: 1, Failures: 0, Errors: 0
+BUILD SUCCESS

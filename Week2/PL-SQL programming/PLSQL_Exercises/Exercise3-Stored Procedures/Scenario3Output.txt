@@ -1,0 +1,12 @@
+Sample Execution
+
+BEGIN
+  TransferFunds(101, 102, 500);
+END;
+
+Output
+
+Transferred 500 from account 101 to account 102
+
+Error Output (if insufficient funds):
+ORA-20001: Insufficient funds in source account.

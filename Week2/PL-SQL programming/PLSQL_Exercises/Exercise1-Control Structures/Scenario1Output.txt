@@ -1,0 +1,11 @@
+Sample Data
+
+| customer_id  | age | loan_id  | interest_rate  |
+| ------------ | --- | -------- | -------------- |
+| 101          | 65  | 201      | 8.5            |
+| 102          | 70  | 202      | 9.0            |
+
+Output
+
+Discount applied to loan ID 201
+Discount applied to loan ID 202

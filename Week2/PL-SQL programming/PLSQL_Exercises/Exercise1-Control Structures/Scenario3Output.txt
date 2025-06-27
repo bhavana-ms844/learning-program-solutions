@@ -1,0 +1,11 @@
+Sample Data
+
+| customer_id  | name   | due_date    |
+| ------------ | ------ | ----------- |
+| 101          | Rajesh | 10-JUL-2025 |
+| 104          | Meena  | 05-JUL-2025 |
+
+Output
+
+Reminder: Dear Rajesh, your loan is due on 10-JUL-2025
+Reminder: Dear Meena, your loan is due on 05-JUL-2025
