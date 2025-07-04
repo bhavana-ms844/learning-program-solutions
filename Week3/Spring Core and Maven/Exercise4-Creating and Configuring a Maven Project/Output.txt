@@ -1,0 +1,4 @@
+Output:
+
+BookService: Adding book 'Effective Java'
+BookRepository: Book 'Effective Java' saved to the database.

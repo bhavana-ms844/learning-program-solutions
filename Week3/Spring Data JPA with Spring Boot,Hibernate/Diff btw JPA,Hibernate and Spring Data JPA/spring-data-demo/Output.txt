@@ -1,0 +1,4 @@
+Output:
+
+Hibernate: insert into employee (name) values (?)
+Employee saved with ID: 1

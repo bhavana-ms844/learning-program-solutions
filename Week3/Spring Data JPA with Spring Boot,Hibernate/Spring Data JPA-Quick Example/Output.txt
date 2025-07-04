@@ -1,0 +1,6 @@
+Output:
+
+03-07-25 11:15:25.123 main      INFO  OrmLearnApplication           main   25 Inside main
+03-07-25 11:15:25.124 main      INFO  OrmLearnApplication   testGetAllCountries   30 Start
+03-07-25 11:15:25.126 main     DEBUG  OrmLearnApplication   testGetAllCountries   32 countries=[Country [code=IN, name=India], Country [code=US, name=United States of America]]
+03-07-25 11:15:25.127 main      INFO  OrmLearnApplication   testGetAllCountries   33 End
