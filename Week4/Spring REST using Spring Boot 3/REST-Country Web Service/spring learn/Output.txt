@@ -1,0 +1,12 @@
+Output:
+(Browser)
+JSON Response:
+{
+  "code": "IN",
+  "name": "India"
+}
+
+Logging Output:
+
+INFO  CountryController: START getCountryIndia()
+INFO  CountryController: END getCountryIndia()

@@ -1,0 +1,9 @@
+<dependencies>
+    <!-- Web Starter -->
+    <dependency>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-web</artifactId>
+    </dependency>
+
+    <!-- Logging is included in web starter -->
+</dependencies>

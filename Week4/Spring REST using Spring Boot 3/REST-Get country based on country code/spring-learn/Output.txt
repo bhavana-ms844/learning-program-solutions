@@ -1,0 +1,12 @@
+Output:
+
+JSON Response:
+{
+  "code": "IN",
+  "name": "India"
+}
+
+Logging output:
+
+INFO  [main] CountryController : START getCountry() with code: in
+INFO  [main] CountryController : END getCountry()

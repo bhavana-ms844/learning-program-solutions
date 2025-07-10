@@ -1,0 +1,16 @@
+Run application:
+mvn spring-boot:run
+
+Run the curl command:
+curl -s -u user:pwd http://localhost:8090/authenticate
+
+Output:
+
+{
+  "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyIiwiaWF0IjoxNzI1OTA1MzcyLCJleHAiOjE3MjU5MDY1NzJ9.VxJ..."
+}
+
+Log sample:
+DEBUG Authorization Header: Basic dXNlcjpwd2Q=
+DEBUG Decoded credentials: user:pwd
+DEBUG Decoded Username: user

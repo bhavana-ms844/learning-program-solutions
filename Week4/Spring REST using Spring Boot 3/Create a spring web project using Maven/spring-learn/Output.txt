@@ -1,0 +1,8 @@
+Output:
+
+Tomcat started on port(s): 8080 (http)
+Inside main method
+
+Browser output:
+
+Hello from Spring Boot!
