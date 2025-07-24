@@ -1,0 +1,42 @@
+.formatstyle {
+  text-align: center;
+  font-size: large;
+  font-family: Arial, sans-serif;
+  margin-top: 50px;
+}
+
+/* Labels - Bold + Colored */
+.LabelName {
+  color: blue;
+  font-weight: bold;
+}
+.LabelSchool {
+  color: crimson;
+  font-weight: bold;
+}
+.LabelTotal {
+  color: darkmagenta;
+  font-weight: bold;
+}
+.LabelScore {
+  color: forestgreen;
+  font-weight: bold;
+}
+
+/* Values - Same color, Normal weight */
+.ValueName {
+  color: blue;
+  font-weight: normal;
+}
+.ValueSchool {
+  color: crimson;
+  font-weight: normal;
+}
+.ValueTotal {
+  color: darkmagenta;
+  font-weight: normal;
+}
+.ValueScore {
+  color: forestgreen;
+  font-weight: normal;
+}
